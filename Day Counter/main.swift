@@ -21,7 +21,6 @@ formatter.timeStyle = .none
 let dateNumString = CommandLine.arguments[1]
 
 let dateNum = Int(dateNumString)
-//let dateNum = 5771
 
 var calendar = Calendar.current
 
